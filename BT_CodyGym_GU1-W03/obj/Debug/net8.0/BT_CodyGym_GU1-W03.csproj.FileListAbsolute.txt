@@ -1,0 +1,14 @@
+D:\BT_CodyGym_GU1-W03\bin\Debug\net8.0\BT_CodyGym_GU1-W03.exe
+D:\BT_CodyGym_GU1-W03\bin\Debug\net8.0\BT_CodyGym_GU1-W03.deps.json
+D:\BT_CodyGym_GU1-W03\bin\Debug\net8.0\BT_CodyGym_GU1-W03.runtimeconfig.json
+D:\BT_CodyGym_GU1-W03\bin\Debug\net8.0\BT_CodyGym_GU1-W03.dll
+D:\BT_CodyGym_GU1-W03\bin\Debug\net8.0\BT_CodyGym_GU1-W03.pdb
+D:\BT_CodyGym_GU1-W03\obj\Debug\net8.0\BT_CodyGym_GU1-W03.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT_CodyGym_GU1-W03\obj\Debug\net8.0\BT_CodyGym_GU1-W03.AssemblyInfoInputs.cache
+D:\BT_CodyGym_GU1-W03\obj\Debug\net8.0\BT_CodyGym_GU1-W03.AssemblyInfo.cs
+D:\BT_CodyGym_GU1-W03\obj\Debug\net8.0\BT_CodyGym_GU1-W03.csproj.CoreCompileInputs.cache
+D:\BT_CodyGym_GU1-W03\obj\Debug\net8.0\BT_CodyGym_GU1-W03.dll
+D:\BT_CodyGym_GU1-W03\obj\Debug\net8.0\refint\BT_CodyGym_GU1-W03.dll
+D:\BT_CodyGym_GU1-W03\obj\Debug\net8.0\BT_CodyGym_GU1-W03.pdb
+D:\BT_CodyGym_GU1-W03\obj\Debug\net8.0\BT_CodyGym_GU1-W03.genruntimeconfig.cache
+D:\BT_CodyGym_GU1-W03\obj\Debug\net8.0\ref\BT_CodyGym_GU1-W03.dll
